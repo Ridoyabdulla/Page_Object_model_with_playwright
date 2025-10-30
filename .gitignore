@@ -1,0 +1,8 @@
+
+# Playwright
+node_modules
+blob-report
+test-results
+.last-run.json
+
+

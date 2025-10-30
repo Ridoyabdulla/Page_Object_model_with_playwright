@@ -1,0 +1,50 @@
+[
+  {
+    "firstName": "Kurtis",
+    "lastName": "Crona",
+    "email": "Flavio@gmail.com",
+    "password": "1234",
+    "phoneNumber": "01523456366",
+    "address": "Ralphfield"
+  },
+  {
+    "firstName": "Donald",
+    "lastName": "Tillman",
+    "email": "Levi@gmail.com",
+    "password": "1234",
+    "phoneNumber": "01532559767",
+    "address": "East Leann"
+  },
+  {
+    "firstName": "Earline",
+    "lastName": "Klein",
+    "email": "Jaquan@gmail.com",
+    "password": "1234",
+    "phoneNumber": "01578639372",
+    "address": "Fort Lupehaven"
+  },
+  {
+    "firstName": "Cindy",
+    "lastName": "Muller",
+    "email": "Erwin@gmail.com",
+    "password": "1234",
+    "phoneNumber": "01566913732",
+    "address": "Bobbiefort"
+  },
+  {
+    "firstName": "Vida",
+    "lastName": "Kunde",
+    "email": "Adalberto@gmail.com",
+    "password": "1234",
+    "phoneNumber": "01546279286",
+    "address": "Schulistland"
+  },
+  {
+    "firstName": "Nelson",
+    "lastName": "Fritsch",
+    "email": "Maverick@gmail.com",
+    "password": "1234",
+    "phoneNumber": "0159760025",
+    "address": "Bell Gardens"
+  }
+]
